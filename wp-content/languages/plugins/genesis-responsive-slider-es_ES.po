@@ -1,0 +1,289 @@
+# Translation of Plugins - Genesis Responsive Slider - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Genesis Responsive Slider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-28 18:36:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Genesis Responsive Slider - Stable (latest release)\n"
+
+#: admin.php:33
+msgid "[Continue Reading]"
+msgstr "[Seguir leyendo]"
+
+#. Author of the plugin/theme
+msgid "StudioPress"
+msgstr "StudioPress"
+
+#. Description of the plugin/theme
+msgid "A responsive featured slider for the Genesis Framework."
+msgstr "Un carrusel destacado adaptable a dispositivos móviles para Genesis Framework."
+
+#. #-#-#-#-#  genesis-responsive-slider-code.pot (Genesis Responsive Slider
+#. 0.9.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  genesis-responsive-slider-code.pot (Genesis Responsive Slider
+#. 0.9.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.studiopress.com"
+msgstr "http://www.studiopress.com"
+
+#. Plugin Name of the plugin/theme
+msgid "Genesis Responsive Slider"
+msgstr "Genesis Responsive Slider"
+
+#: genesis-responsive-slider.php:377
+msgid "To configure slider options, please go to the <a href=\"%s\">Slider Settings</a> page."
+msgstr "Para configurar las opciones, por favor ve a la página de <a href=\"%s\">Ajustes del carrusel</a>"
+
+#: genesis-responsive-slider.php:374
+msgid "Title:"
+msgstr "Titulo:"
+
+#: genesis-responsive-slider.php:211
+msgid "Displays a slideshow inside a widget area"
+msgstr "Muestra un carrusel dentro de un área widget"
+
+#: admin.php:412
+msgid "Save Changes"
+msgstr "Guadar cambios"
+
+#: admin.php:402
+msgid "Right"
+msgstr "Derecha"
+
+#: admin.php:401
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin.php:399
+msgid "Excerpt Location (horizontal)"
+msgstr "Localización del extracto (horizontal)"
+
+#: admin.php:394
+msgid "Bottom"
+msgstr "Abajo"
+
+#: admin.php:393
+msgid "Top"
+msgstr "Arriba"
+
+#: admin.php:391
+msgid "Excerpt Location (vertical)"
+msgstr "Localización del extracto (vertical)"
+
+#: admin.php:386
+msgid "Slider Excerpt Width (in percentage)"
+msgstr "Ancho del extracto del carrusel (en porcentaje)"
+
+#: admin.php:383
+msgid "Using this option will limit the text and strip all formatting from the text displayed. To use this option, choose \"Display post content\" in the select box above."
+msgstr "Usando esta opción limitarás el texto y todo el formato del texto mostrado. Para utilizar esta opción, elige \"Mostrar contenido de la entrada\" en la selección a continuación."
+
+#: admin.php:380
+msgid "characters"
+msgstr "caracteres"
+
+#: admin.php:378
+msgid "Limit content to"
+msgstr "Limitar contenido a"
+
+#: admin.php:373
+msgid "More Text (if applicable)"
+msgstr "Más Texto (si aplicable)"
+
+#: admin.php:368
+msgid "Display post excerpts"
+msgstr "Mostrar los extractos de las entradas"
+
+#: admin.php:367
+msgid "Display post content"
+msgstr "Mostrar contenido de las entradas"
+
+#: admin.php:361
+msgid "Hide Title & Content on Mobile Devices"
+msgstr "Ocultar título y contenido en dispositivos móviles"
+
+#: admin.php:357
+msgid "Display Content in Slider?"
+msgstr "¿Mostrar contenido en el carrusel?"
+
+#: admin.php:354
+msgid "Display Post/Page Title in Slider?"
+msgstr "¿Mostrar título de página/entrada en el carrusel?"
+
+#: admin.php:350
+msgid "Do not link Slider image to Post/Page."
+msgstr "No utilizar enlace en la imagen de diapositiva de la entrada/página."
+
+#: admin.php:347
+msgid "Content Settings"
+msgstr "Ajustes de Contenido"
+
+#: admin.php:342
+msgid "Display Pagination in Slider?"
+msgstr "¿Mostrar paginación en el carrusel?"
+
+#: admin.php:338
+msgid "Display Next / Previous Arrows in Slider?"
+msgstr "¿Mostrar flechas de siguiente / anterior en el carrusel?"
+
+#: admin.php:333
+msgid "Maximum Slider Height (in pixels)"
+msgstr "Altura máxima del carrusel (en píxeles)"
+
+#: admin.php:328
+msgid "Maximum Slider Width (in pixels)"
+msgstr "Ancho máxima del carrusel (en píxeles)"
+
+#: admin.php:325
+msgid "Display Settings"
+msgstr "Ajustes de visualización"
+
+#: admin.php:319
+msgid "Fade"
+msgstr "Fundido"
+
+#: admin.php:318
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: admin.php:316 admin.php:365
+msgid "Select one of the following:"
+msgstr "Selecciona una de las siguientes:"
+
+#: admin.php:315
+msgid "Slider Effect"
+msgstr "Efecto del carrusel"
+
+#: admin.php:310
+msgid "Slide Transition Speed (in milliseconds)"
+msgstr "Velocidad de transición del carrusel (en milisegundos)"
+
+#: admin.php:305
+msgid "Time Between Slides (in milliseconds)"
+msgstr "Tiempo entre diapositivas (en milisegundos)"
+
+#: admin.php:302
+msgid "Transition Settings"
+msgstr "Ajustes de transición"
+
+#: admin.php:294
+msgid "Random"
+msgstr "Aleatorio"
+
+#: admin.php:292
+msgid "Title"
+msgstr "Título"
+
+#: admin.php:291
+msgid "Date"
+msgstr "Fecha"
+
+#: admin.php:289
+msgid "Order By"
+msgstr "Ordenar Por"
+
+#: admin.php:284
+msgid "Number of Posts to Offset"
+msgstr "Número de entradas a compensar"
+
+#: admin.php:279
+msgid "Number of Slides to Show"
+msgstr "Número de diapositivas a mostrar"
+
+#: admin.php:273
+msgid "to include / exclude. (1,2,3,4 for example)"
+msgstr "a incluir / excluir. (Por ejemplo 1,2,3,4)"
+
+#: admin.php:273 admin.php:293
+msgid "ID"
+msgstr "ID"
+
+#: admin.php:273
+msgid "List which"
+msgstr "Elegir cuales"
+
+#: admin.php:268
+msgid "Exclude"
+msgstr "Excluir"
+
+#: admin.php:267
+msgid "Include"
+msgstr "Incluir"
+
+#: admin.php:266
+msgid "Select"
+msgstr "Selección"
+
+#: admin.php:262
+msgid "Choose the include / exclude slides using their post / page ID in a comma-separated list. (1,2,3,4 for example)"
+msgstr "Elige incluir / excluir diapositivas utilizando su ID de entrada / página separados por coma. (Por ejemplo 1,2,3,4)"
+
+#: admin.php:259
+msgid "Include or Exclude by %s ID"
+msgstr "Incluir o excluir por ID %s"
+
+#: admin.php:249
+msgid "List which category, tag or other taxonomy IDs to exclude. (1,2,3,4 for example)"
+msgstr "Elige el id de categoría, etiqueta u otra taxonomía para excluir (Por ejemplo 1,2,3,4)"
+
+#: admin.php:246
+msgid "Include or Exclude by Taxonomy ID"
+msgstr "Incluir o excluir por ID de taxonomía"
+
+#: admin.php:219
+msgid "All Taxonomies and Terms"
+msgstr "Todas las taxonomías y términos"
+
+#: admin.php:215
+msgid "Choose a term to determine what slides to include"
+msgstr "Elige el término que determinará que diapositivas incluir"
+
+#: admin.php:215
+msgid "By Taxonomy and Terms"
+msgstr "Por taxonomía y términos"
+
+#: admin.php:196
+msgid "Would you like to use posts or pages"
+msgstr "¿Te gustaría usarlo para entradas o páginas?"
+
+#: admin.php:194
+msgid "Type of Content"
+msgstr "Tipo de contenido"
+
+#: admin.php:154
+msgid "Are you sure you want to reset?"
+msgstr "¿Estás seguro que quieres restablecer?"
+
+#: admin.php:154 admin.php:165
+msgid "Reset Settings"
+msgstr "Restablecer ajustes"
+
+#: admin.php:153 admin.php:164
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: admin.php:152 genesis-responsive-slider.php:213
+msgid "Genesis - Responsive Slider"
+msgstr "Genesis - Carrusel adaptativo"
+
+#: admin.php:114
+msgid "Genesis Responsive Slider Settings"
+msgstr "Ajustes Genesis Responsive Slider"
+
+#: admin.php:92
+msgid "Slider Settings"
+msgstr "Ajustes del carrusel"
+
+#: admin.php:79
+msgid "Settings saved."
+msgstr "Opciones guardadas."
+
+#: admin.php:77
+msgid "Settings reset."
+msgstr "Ajustes restablecidos."
